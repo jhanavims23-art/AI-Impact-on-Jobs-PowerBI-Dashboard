@@ -229,7 +229,7 @@ AI-Impact-on-Jobs-PowerBI-Dashboard
 
 **M. S. Jhanavi**
 
-MBA (Business Analytics & Marketing)
+MBA (HR Analytics & Marketing)
 
 Passionate about transforming business data into actionable insights through Data Analytics, Machine Learning, SQL, Python, Power BI, and Tableau.
 
